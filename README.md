@@ -1,2 +1,2 @@
-# bsd4-template
-This is a template repository with the BSD 4 license.
+# zero-to-mastery-database
+A database for [Zero to Mastery](https://academy.zerotomastery.io).
